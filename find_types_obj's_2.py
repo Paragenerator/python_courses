@@ -7,4 +7,4 @@ b = False
 
 x = f > i
 at = (i,f,s,l,d,b,x)
-print (type(i),'\n',type(f),'\n',type(s),'\n', type(l),'\n', type(d),'\n', type(b),'\n', type(x),'\n', type(at))
+print (type(i),'i\n',type(f),'f\n',type(s),'s\n', type(l),'l\n', type(d),'d\n', type(b),'b\n', type(x),'x\n', type(at),"at")
