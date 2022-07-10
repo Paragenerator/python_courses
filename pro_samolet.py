@@ -17,7 +17,7 @@ sk_vetra = 109          # km/h Скорость ветра
 n_vetra = 'ю'           # Напрвление ветра (ю,с,в,з)
 n_plane = 'c'           # Направление самолета (ю,с,в,з)
 
-Toplevo = 33    # Топлево(%)
+Toplevo = 33    # Топливо(%)
 Nepoladki = 5   # Количество неполадок
 
 # Ред. logic 
@@ -37,6 +37,6 @@ print('Скорость самолета: ',plane_speed)
 print('Направление самолета:',n_plane)
 print("Cвободных полос: ", free_dorojki)
 print("Скорость и направление ветра: ",sk_vetra,n_vetra)
-print("Топлево:",Toplevo,"%")
+print("Топливо:",Toplevo,"%")
 print("Неполадки:",Nepoladki)
 print( "Can the plane land?: ", can_land )      # Вывод окончательного решения
