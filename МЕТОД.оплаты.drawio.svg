@@ -1,0 +1,755 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1568" height="1585" viewBox="-0.5 -0.5 1568 1585" content="&lt;mxfile&gt;&lt;diagram id=&quot;kaz2wsrH0j2NrFuEvodB&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <filter id="dropShadow">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="1.7" result="blur"/>
+            <feOffset in="blur" dx="3" dy="3" result="offsetBlur"/>
+            <feFlood flood-color="#3D4574" flood-opacity="0.4" result="offsetColor"/>
+            <feComposite in="offsetColor" in2="offsetBlur" operator="in" result="offsetBlur"/>
+            <feBlend in="SourceGraphic" in2="offsetBlur"/>
+        </filter>
+    </defs>
+    <g filter="url(#dropShadow)">
+        <path d="M 225 33 L 225 56.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 225 61.88 L 221.5 54.88 L 225 56.63 L 228.5 54.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="155" y="3" width="140" height="30" rx="4.5" ry="4.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 18px; margin-left: 156px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 30px">
+                                    start
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="225" y="22" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    start
+                </text>
+            </switch>
+        </g>
+        <path d="M 228.59 123 L 233.81 166.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 234.43 171.89 L 230.13 165.35 L 233.81 166.68 L 237.08 164.52 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="115" y="63" width="220" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 93px; margin-left: 116px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 23px ; line-height: 19px">
+                                    ser_price =
+                                    <span style="color: #b5cea8">
+                                        100
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="225" y="97" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ser_price = 100
+                </text>
+            </switch>
+        </g>
+        <path d="M 233.14 243 L 225.52 290.54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 224.69 295.73 L 222.34 288.26 L 225.52 290.54 L 229.25 289.37 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 243 L 20 173 L 477.5 173 L 457.5 243 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 476px; height: 1px; padding-top: 208px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <div>
+                                        <span style="font-size: 14px">
+                                            client_cash =
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(78 , 201 , 176)">
+                                            int
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            (
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(220 , 220 , 170)">
+                                            input
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            (
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(206 , 145 , 120)">
+                                            "
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(215 , 186 , 125)">
+                                            \n
+                                        </span>
+                                        <span style="color: rgb(206 , 145 , 120)">
+                                            <font style="font-size: 20px">
+                                                Сколько налички?
+                                            </font>
+                                            <span style="font-size: 14px">
+                                                : "
+                                            </span>
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            ))
+                                        </span>
+                                    </div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="239" y="212" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    client_cash = int(input("\n Сколько налички?: "))
+                </text>
+            </switch>
+        </g>
+        <path d="M 193.52 483 L 174.46 527.15" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 172.38 531.97 L 171.94 524.16 L 174.46 527.15 L 178.36 526.93 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 477.5 345.07 L 536.2 358.89" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 541.31 360.09 L 533.7 361.9 L 536.2 358.89 L 535.3 355.08 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 213.91 293 L 407.81 363 L 213.91 433 L 20 363 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 386px; height: 1px; padding-top: 363px; margin-left: 21px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 17px ; line-height: 19px">
+                                    <span style="color: #c586c0">
+                                        if
+                                    </span>
+                                    client_cash &gt;= ser_price:
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="214" y="367" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    if client_cash &gt;= ser_price:
+                </text>
+            </switch>
+        </g>
+        <path d="M 153.83 623 L 177.89 1436.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 178.04 1441.88 L 174.34 1434.99 L 177.89 1436.63 L 181.34 1434.78 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 10 623 L 30 533 L 295 533 L 275 623 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 283px; height: 1px; padding-top: 578px; margin-left: 11px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <span style="font-size: 14px ; color: rgb(220 , 220 , 170)">
+                                        print
+                                    </span>
+                                    <span style="font-size: 14px">
+                                        (
+                                    </span>
+                                    <span style="font-size: 14px ; color: rgb(206 , 145 , 120)">
+                                        "
+                                    </span>
+                                    <span style="font-size: 14px ; color: rgb(215 , 186 , 125)">
+                                        \n
+                                    </span>
+                                    <span style="color: rgb(206 , 145 , 120)">
+                                        <font style="font-size: 18px">
+                                            Оплата наличными прошла успешно!
+                                        </font>
+                                        <span style="font-size: 14px">
+                                            "
+                                        </span>
+                                    </span>
+                                    <span style="font-size: 14px">
+                                        )
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="582" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    print("\n Оплата наличными прошла успешно!")
+                </text>
+            </switch>
+        </g>
+        <rect x="50" y="1443" width="260" height="130" rx="19.5" ry="19.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 1508px; margin-left: 51px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 30px">
+                                    END
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="180" y="1512" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    END
+                </text>
+            </switch>
+        </g>
+        <path d="M 639.23 413 L 623.44 447.22" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 621.24 451.98 L 620.99 444.16 L 623.44 447.22 L 627.35 447.1 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 510 413 L 530 323 L 810 323 L 790 413 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 368px; margin-left: 511px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <span style="font-size: 14px ; color: rgb(220 , 220 , 170)">
+                                        rint
+                                    </span>
+                                    <span style="font-size: 14px">
+                                        (
+                                    </span>
+                                    <span style="font-size: 14px ; color: rgb(206 , 145 , 120)">
+                                        "
+                                    </span>
+                                    <span style="font-size: 14px ; color: rgb(215 , 186 , 125)">
+                                        \n
+                                    </span>
+                                    <span style="color: rgb(206 , 145 , 120)">
+                                        <font style="font-size: 19px">
+                                            Оплата наличкой провалилась
+                                        </font>
+                                        <span style="font-size: 14px">
+                                            ."
+                                        </span>
+                                    </span>
+                                    <span style="font-size: 14px">
+                                        )
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="660" y="372" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    rint("\n Оплата наличкой провалилась.")
+                </text>
+            </switch>
+        </g>
+        <path d="M 534.9 763 L 526.75 786.97" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 525.06 791.94 L 524 784.19 L 526.75 786.97 L 530.63 786.44 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 882.81 608.82 L 925.58 609.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 930.83 610.14 L 923.73 613.44 L 925.58 609.99 L 923.93 606.45 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 595 573 L 790 628 L 595 683 L 400 628 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 388px; height: 1px; padding-top: 628px; margin-left: 401px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 19px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <span style="color: #c586c0">
+                                            if
+                                        </span>
+                                        client_card &gt;= ser_price:
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="595" y="632" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    if client_card &gt;= ser_price:
+                </text>
+            </switch>
+        </g>
+        <path d="M 598.27 543 L 597.34 567.23" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 597.14 572.47 L 593.91 565.34 L 597.34 567.23 L 600.9 565.61 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 450 543 L 470 453 L 750 453 L 730 543 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 498px; margin-left: 451px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <span style="font-size: 14px">
+                                            client_card =
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(78 , 201 , 176)">
+                                            int
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            (
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(220 , 220 , 170)">
+                                            input
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            (
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(206 , 145 , 120)">
+                                            "
+                                        </span>
+                                        <span style="font-size: 14px ; color: rgb(215 , 186 , 125)">
+                                            \n
+                                        </span>
+                                        <span style="color: rgb(206 , 145 , 120)">
+                                            <font style="font-size: 19px">
+                                                Сколько денег на карте?
+                                            </font>
+                                            <span style="font-size: 14px">
+                                                : "
+                                            </span>
+                                        </span>
+                                        <span style="font-size: 14px">
+                                            ))
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="600" y="502" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    client_card = int(input("\n Сколько денег на карте?: "))
+                </text>
+            </switch>
+        </g>
+        <path d="M 498.31 853 L 183.02 1437.4" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 180.53 1442.02 L 180.77 1434.19 L 183.02 1437.4 L 186.93 1437.52 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 400 853 L 420 793 L 629 793 L 609 853 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 227px; height: 1px; padding-top: 823px; margin-left: 401px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 14px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <span style="color: #dcdcaa">
+                                            print
+                                        </span>
+                                        (
+                                        <span style="color: #ce9178">
+                                            "
+                                        </span>
+                                        <span style="color: #d7ba7d">
+                                            \n
+                                        </span>
+                                        <span style="color: #ce9178">
+                                            Ура, грошей на карте достаточно!"
+                                        </span>
+                                        )
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="515" y="827" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    print("\n Ура, грошей на карте достаточно!")
+                </text>
+            </switch>
+        </g>
+        <path d="M 1019.78 643 L 996.54 687.36" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 994.1 692.01 L 994.25 684.18 L 996.54 687.36 L 1000.45 687.43 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 921 643 L 941 583 L 1150 583 L 1130 643 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 227px; height: 1px; padding-top: 613px; margin-left: 922px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 14px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <span style="color: #dcdcaa">
+                                                print
+                                            </span>
+                                            (
+                                            <span style="color: #ce9178">
+                                                "
+                                            </span>
+                                            <span style="color: #d7ba7d">
+                                                \n
+                                            </span>
+                                            <span style="color: #ce9178">
+                                                Оплата картой не прошла :С"
+                                            </span>
+                                            )
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1036" y="617" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    print("\n Оплата картой не прошла :С")
+                </text>
+            </switch>
+        </g>
+        <path d="M 950.49 783 L 930.47 829.16" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 928.38 833.97 L 927.96 826.16 L 930.47 829.16 L 934.38 828.94 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 780 783 L 800 693 L 1160 693 L 1140 783 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 378px; height: 1px; padding-top: 738px; margin-left: 781px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                <span style="font-size: 14px">
+                                                    client_crypto =
+                                                </span>
+                                                <span style="font-size: 14px ; color: rgb(78 , 201 , 176)">
+                                                    int
+                                                </span>
+                                                <span style="font-size: 14px">
+                                                    (
+                                                </span>
+                                                <span style="font-size: 14px ; color: rgb(220 , 220 , 170)">
+                                                    input
+                                                </span>
+                                                <span style="font-size: 14px">
+                                                    (
+                                                </span>
+                                                <span style="font-size: 14px ; color: rgb(206 , 145 , 120)">
+                                                    "
+                                                </span>
+                                                <span style="font-size: 14px ; color: rgb(215 , 186 , 125)">
+                                                    \n
+                                                </span>
+                                                <span style="color: rgb(206 , 145 , 120)">
+                                                    <font style="font-size: 23px">
+                                                        Может в собакеКоинах достаточно ?!
+                                                    </font>
+                                                    <span style="font-size: 14px">
+                                                        : "
+                                                    </span>
+                                                </span>
+                                                <span style="font-size: 14px">
+                                                    ))
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="970" y="742" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    client_crypto = int(input("\n Может в собакеКоинах достаточно ?!: "))
+                </text>
+            </switch>
+        </g>
+        <path d="M 914.88 913 L 933.12 947.38" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 935.59 952.01 L 929.21 947.47 L 933.12 947.38 L 935.4 944.19 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="743" y="833" width="687.5" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 686px; height: 1px; padding-top: 873px; margin-left: 744px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 20px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div>
+                                            coef_sobakeCoin =
+                                            <span style="color: #b5cea8">
+                                                0.067
+                                            </span>
+                                        </div>
+                                        <div>
+                                            sobakeCoin_to_USD = client_crypto * coef_sobakeCoin
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1087" y="877" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    coef_sobakeCoin = 0.067...
+                </text>
+            </switch>
+        </g>
+        <path d="M 947.75 1043 L 934.62 1091.23" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 933.25 1096.29 L 931.71 1088.62 L 934.62 1091.23 L 938.46 1090.46 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 770 1043 L 790 953 L 1150 953 L 1130 1043 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 378px; height: 1px; padding-top: 998px; margin-left: 771px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 14px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px ; font-size: 22px">
+                                                <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                    <div>
+                                                        <span style="color: #dcdcaa">
+                                                            print
+                                                        </span>
+                                                        sobakeCoin_to_USD
+                                                    </div>
+                                                    <br/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="960" y="1002" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    print sobakeCoin_to_USD
+                </text>
+            </switch>
+        </g>
+        <path d="M 869.9 1253 L 821.41 1289.19" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 817.2 1292.33 L 820.72 1285.34 L 821.41 1289.19 L 824.91 1290.95 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1185.62 1233.76 L 1242.59 1244.69" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1247.74 1245.68 L 1240.21 1247.8 L 1242.59 1244.69 L 1241.53 1240.93 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 917.81 1093 L 1125.62 1153 L 917.81 1213 L 710 1153 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 414px; height: 1px; padding-top: 1153px; margin-left: 711px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 14px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px ; font-size: 20px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <span style="color: #c586c0">
+                                                if
+                                            </span>
+                                            sobakeCoin_to_USD &gt;= ser_price:
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="918" y="1157" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    if sobakeCoin_to_USD &gt;= ser_price:
+                </text>
+            </switch>
+        </g>
+        <path d="M 707.76 1343 L 316.04 1473.49" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 311.06 1475.15 L 316.6 1469.61 L 316.04 1473.49 L 318.81 1476.25 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 620 1343 L 640 1293 L 945.62 1293 L 925.62 1343 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 324px; height: 1px; padding-top: 1318px; margin-left: 621px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                    <div>
+                                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                            <span style="color: rgb(206 , 145 , 120)">
+                                                                <font style="font-size: 21px">
+                                                                    Фух, не последний бомж
+                                                                </font>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="783" y="1322" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Фух, не последний бомж
+                </text>
+            </switch>
+        </g>
+        <path d="M 1293.47 1293 L 316.18 1538.95" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 311.08 1540.23 L 317.02 1535.12 L 316.18 1538.95 L 318.73 1541.91 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1230 1293 L 1250 1243 L 1555.62 1243 L 1535.62 1293 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 324px; height: 1px; padding-top: 1268px; margin-left: 1231px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; font-size: 14px ; line-height: 19px">
+                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                            <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                    <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px ; font-size: 20px">
+                                                        <div style="font-family: &quot;droid sans mono&quot; , &quot;monospace&quot; , monospace ; line-height: 19px">
+                                                            <span style="color: #ce9178">
+                                                                Ну, вернись после зарплаты..."
+                                                            </span>
+                                                            )
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1393" y="1272" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Ну, вернись после зарплаты...")
+                </text>
+            </switch>
+        </g>
+        <rect x="860" y="1223" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 1238px; margin-left: 861px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 22px">
+                                    <b>
+                                        true
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="890" y="1242" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    true
+                </text>
+            </switch>
+        </g>
+        <path d="M 899.87 1207.82 L 894.91 1223" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="510" y="733" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 748px; margin-left: 511px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 22px">
+                                    <b>
+                                        true
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="540" y="752" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    true
+                </text>
+            </switch>
+        </g>
+        <path d="M 572.68 676.7 L 546.88 733" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="170" y="453" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 468px; margin-left: 171px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 22px">
+                                    <b>
+                                        true
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="200" y="472" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    true
+                </text>
+            </switch>
+        </g>
+        <path d="M 205.06 429.81 L 201.99 453" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="417.5" y="323" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 338px; margin-left: 419px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                false
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="448" y="345" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="22px" text-anchor="middle" font-weight="bold">
+                    false
+                </text>
+            </switch>
+        </g>
+        <path d="M 356.14 344.35 L 423.98 335.45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="822.81" y="593" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 608px; margin-left: 824px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                false
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="853" y="615" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="22px" text-anchor="middle" font-weight="bold">
+                    false
+                </text>
+            </switch>
+        </g>
+        <path d="M 747.94 616.14 L 822.81 610.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="1125.62" y="1213" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 1228px; margin-left: 1127px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                false
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1156" y="1235" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="22px" text-anchor="middle" font-weight="bold">
+                    false
+                </text>
+            </switch>
+        </g>
+        <path d="M 1021.72 1183 L 1125.62 1213" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
