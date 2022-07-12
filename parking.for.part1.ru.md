@@ -4,6 +4,9 @@ FREE_PLACE = 3
 print("#"*PARKING_PLACES*5)
 
 for place_index in range(1, PARKING_PLACES + 1):
-    print("| X |", end="")
+    if place_index == FREE_PLACE:
+        print("|   |", end="")
+    else:
+        print("| X |", end="")
 
-print("\n","#"*PARKING_PLACES*5, sep="")
+print("\n","#"*PARKING_PLACES*5, sep="")   # Функция sep="" изменяет значение(пробел) разделятеля на указанное значение в кавычках
