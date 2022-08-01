@@ -1,5 +1,5 @@
 from os import system
-from getch import getche, getch
+from getch import getche, getch #Для установки этой библиотеки: pip install getch
 import random
 
 
